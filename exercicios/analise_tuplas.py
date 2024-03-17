@@ -11,7 +11,7 @@ for n in valores:
     if n % 2 == 0:
         contPar += n
         print(n, end='   ')
-print(f'\no time par tem = {cont} pontos')
+print(f'\no time par tem = {contPar} pontos')
 
 print('\n-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n')
 
@@ -20,6 +20,6 @@ for n in valores:
     if n % 2 != 0:
         contImpar += n
         print(n, end= '   ')
-print(f'\no time impar tem = {cont} pontos')
+print(f'\no time impar tem = {contImpar} pontos')
         
     
