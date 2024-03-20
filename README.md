@@ -1,1 +1,1 @@
-4 Exercicios incluindo uma analise de dados em tuplas, eu sorteio 10 números e os armazeno na tupla, mostro quantos deles são pares e quantos são impares e os coloco em times, então no final somo todos os números e o resultado é a pontuação total do time:
+5 Exercicios com foco em análise de dados em Tuplas.
